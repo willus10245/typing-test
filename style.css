@@ -157,6 +157,11 @@ body {
     padding-bottom: 1em;
 }
 
+.text-buttons {
+	margin: 1em 0;
+    padding: 0em 1em 0;
+}
+
 .test-wrapper {
     display: flex;
 }
